@@ -1,0 +1,12 @@
+{
+    "energy_range": "[0, 1500]",
+    "fft_chunk": "2048",
+    "channel": "1",
+    "audio_rate": "48000",
+    "device_index": "2",
+    "arduino_port": "COM8",
+    "arduino": "ON",
+    "reactive": "TRUE",
+    "colors": "(255, 0, 0)",
+    "reactive_count": "5"
+}
