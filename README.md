@@ -39,7 +39,7 @@
 --- 
 ```
 cd /python
-pip install -r requierments.txt
+pip install -r requirements.txt
 py ./main.py
 ```
 
